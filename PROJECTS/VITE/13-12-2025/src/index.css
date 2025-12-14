@@ -1,0 +1,51 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #f2f2f2;
+}
+
+.auth-container {
+  width: 300px;
+  margin: 80px auto;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+.auth-container input,
+.auth-container textarea,
+.auth-container select,
+button {
+  width: 100%;
+  margin: 8px 0;
+  padding: 8px;
+}
+
+button {
+  background: #2563eb;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.navbar {
+  background: #111827;
+  color: white;
+  padding: 12px 20px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.feed {
+  padding: 20px;
+}
+
+.review-card {
+  background: white;
+  padding: 15px;
+  margin-bottom: 12px;
+  border-radius: 6px;
+}
+
+.rating {
+  color: #f59e0b;
+}
