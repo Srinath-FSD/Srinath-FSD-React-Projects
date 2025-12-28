@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Chicken Biryani",
+    "time": "45 mins"
+  },
+  {
+    "id": 2,
+    "name": "Veg Fried Rice",
+    "time": "30 mins"
+  },
+  {
+    "id": 3,
+    "name": "Pasta",
+    "time": "25 mins"
+  },
+  {
+    "id":4,
+    "name":"grill chicken",
+    "time":"35 mins"
+  }
+]
